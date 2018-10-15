@@ -30,5 +30,5 @@ ORM框架：Mybatis
 一些功能：
 ![Alt text](https://github.com/Zoutao6/examination_system-/raw/master/images/5.png)
 
-
+ssm
 
