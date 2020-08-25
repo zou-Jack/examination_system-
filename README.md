@@ -1,9 +1,9 @@
-# examination_system-
-这是个基于SSM+Bootstrap的教务查询系统，是一个简单的教务查询系统.
-
+# examination_system 教务管理系统
+这是个基于SSM+Bootstrap的教务查询系统，是一个教务查询系统.
 做了关于数据库的增删改查练习。
 用来熟悉SSM的整合开发。
-使用技术 
+
+## 使用技术 
 IOC容器：Spring Web框架：SpringMVC 
 ORM框架：Mybatis 
 数据源：C3P0 
@@ -11,10 +11,10 @@ ORM框架：Mybatis
 前端框架：Bootstrap 
 运行环境 jdk8+tomcat8+mysql+Eclipse+maven
 项目技术： spring+spring mvc+mybatis+bootstrap+jquery
-前人栽树后人乘凉，这个原github某个作者写的，原系统是IDEA开发，本人修改为了eclipse版本，增加和删除了某些功能。
+前人栽树后人乘凉，最开始系统是IDEA开发，目前该版本修改为了eclipse版本，增加和删除了某些功能。
 欢迎下载。
 
-具体页面：
+## 具体页面：
 登录页：
 ![Alt text](https://github.com/Zoutao6/examination_system-/raw/master/images/1.png)
 
