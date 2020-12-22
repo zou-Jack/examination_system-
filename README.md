@@ -16,19 +16,19 @@ ORM框架：Mybatis
 
 ## 具体页面：
 登录页：
-![Alt text](https://github.com/Zoutao6/examination_system-/raw/master/images/1.png)
+![Alt text](https://github.com/IsZouTao/examination_system-/raw/master/images/1.png)
 
 管理员页：管理员账户：admin+123
-![Alt text](https://github.com/Zoutao6/examination_system-/raw/master/images/2.png)
+！[替代文字] （https://github.com/IsZouTao/examination_system-/raw/master/images/2.png）
 
-学生页：学生登录: 10001+123
-![Alt text](https://github.com/Zoutao6/examination_system-/raw/master/images/3.png)
+学生页：学生登录：10001 + 123
+![Alt text](https://github.com/IsZouTao/examination_system-/raw/master/images/3.png)
 
 老师页：教师登录：1001+123
-![Alt text](https://github.com/Zoutao6/examination_system-/raw/master/images/4.png)
+![Alt text](https://github.com/IsZouTao/examination_system-/raw/master/images/4.png)
 
 一些功能：
-![Alt text](https://github.com/Zoutao6/examination_system-/raw/master/images/5.png)
+![Alt text](https://github.com/IsZouTao/examination_system-/raw/master/images/5.png)
 
 
 
