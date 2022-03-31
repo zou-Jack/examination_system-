@@ -65,7 +65,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>4.3.7.RELEASE</version>
+			<version>5.3.18</version>
 		</dependency>
 
 		<!--spring tx 事务处理 -->
